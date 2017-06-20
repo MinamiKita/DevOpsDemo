@@ -1,0 +1,7 @@
+{
+	"name": "Start on Heroku: Node.js",
+	"description": "A very simple chat app as the demo of DevOps",
+	"repository": "https://github.com/MinamiKita/DevOpsDemo.git",
+	"keywork": ["devops", "node", "chat"],
+	"image": "heroku/nodejs"
+}
